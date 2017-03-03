@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					0A81DFAF1E5C180600CBF20E = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 77ZXHT565T;
 						ProvisioningStyle = Automatic;
 					};
 					0A81DFC31E5C180600CBF20E = {
@@ -410,9 +411,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 77ZXHT565T;
 				INFOPLIST_FILE = LabFintech/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = AAMSystems.LabFintech;
+				PRODUCT_BUNDLE_IDENTIFIER = Lab;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -422,9 +424,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 77ZXHT565T;
 				INFOPLIST_FILE = LabFintech/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = AAMSystems.LabFintech;
+				PRODUCT_BUNDLE_IDENTIFIER = Lab;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
