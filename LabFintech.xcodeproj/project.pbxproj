@@ -414,7 +414,7 @@
 				DEVELOPMENT_TEAM = 77ZXHT565T;
 				INFOPLIST_FILE = LabFintech/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Lab;
+				PRODUCT_BUNDLE_IDENTIFIER = Lab11;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -427,7 +427,7 @@
 				DEVELOPMENT_TEAM = 77ZXHT565T;
 				INFOPLIST_FILE = LabFintech/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Lab;
+				PRODUCT_BUNDLE_IDENTIFIER = Lab11;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -506,6 +506,7 @@
 				0A81DFDA1E5C180600CBF20E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0A81DFDB1E5C180600CBF20E /* Build configuration list for PBXNativeTarget "LabFintechTests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +515,7 @@
 				0A81DFDD1E5C180600CBF20E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0A81DFDE1E5C180600CBF20E /* Build configuration list for PBXNativeTarget "LabFintechUITests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +524,7 @@
 				0A81DFE01E5C180600CBF20E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
